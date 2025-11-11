@@ -1,4 +1,4 @@
-# Synthetic Data:</br> A Catalyst for Scalable, Modern Education and Innovation
+# Synthetic Data:</br> A Catalyst for Scalable, Modern Education, and Innovation
 
 <!-- Logo and Branding -->
 <p align="left">
