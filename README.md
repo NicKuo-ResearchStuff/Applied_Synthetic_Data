@@ -46,10 +46,12 @@ These domains share one thing in common: their data can be easily represented as
 <td width="60%">
 
 **Past Use Cases**
-* [The CBDRH Health Data Science Datathon 2023](https://github.com/NicKuo-ResearchStuff/Applied_Synthetic_Data/blob/main/Blogs/UseCase001_CbdrhDatathon2023/README.md):</br>
+* [The CBDRH Health Data Science Datathon 2023](https://github.com/NicKuo-ResearchStuff/Applied_Synthetic_Data/blob/main/Blogs/UseCase001_CbdrhDatathon2023):</br>
   A showcase of how UNSW’s 2023 CBDRH Health Data Science Datathon used the Health Gym synthetic HIV dataset to inspire hands-on, collaborative learning and real-world data science innovation.
+* [Student Case Competition of the National Big Data Health Science Conference 2025](https://github.com/NicKuo-ResearchStuff/Applied_Synthetic_Data/tree/main/Blogs/UseCase002_UscCaseCompetion2025):</br>
+  A nationwide student competition in the US where universities used the Health Gym synthetic HIV dataset to collaboratively explore treatment dynamics and build innovative predictive models.
   
-Latest update: 2025-11-12.
+Latest update: 2025-11-14.
   
 </td>
 <td width="40%">
@@ -112,4 +114,4 @@ please reach out to Nic at: [n.kuo@unsw.edu.au](mailto:n.kuo@unsw.edu.au)
 [3] [Kuo et al., *“Enriching Data Science and Health Care Education: Application and Impact of Synthetic Data Sets Through the Health Gym Project.”* JMIR Medical Education (2024)](https://mededu.jmir.org/2024/1/e51388/)</br>
 [4] [Kuo et al., *“The Health Gym v2.0 Synthetic Antiretroviral Therapy (ART) for HIV Dataset.”* Figshare (2023)](https://figshare.com/articles/dataset/The_Health_Gym_v2_0_Synthetic_Antiretroviral_Therapy_ART_for_HIV_Dataset/22827878)
 
-(Last edit: 2025-11-12)
+(Last edit: 2025-11-14)
